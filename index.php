@@ -3,6 +3,8 @@
 
 //Crud dengan OOP 
 
+// tanggal 14/09/2016
+
 
 // memanggil file koneksi
 include 'koneksi_class.php';
