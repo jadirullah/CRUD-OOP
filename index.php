@@ -95,3 +95,13 @@ foreach ($arrayanggota as $data) {
 
 echo "</table>";
 ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>cihut</title>
+</head>
+<body>
+cihuy
+</body>
+</html>
